@@ -8,5 +8,5 @@ Customer churn, also known as customer attrition, occurs when a customer decides
 ## Data Modeling:
 1. Dataset :
 2. Relational Modeling :
-   > ERD :
-   > Mapping :
+   - ERD :
+   - Mapping :
