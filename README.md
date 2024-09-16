@@ -6,8 +6,7 @@ Customer churn, also known as customer attrition, occurs when a customer decides
 ###Finding areas for improvement in service.
 ###Developing strategies to attract and keep more customers.
 ## Data Modeling:
-1. Dataset:
-2. Relational Modeling:
-   > ERD
-   > Mapping
-> 
+1. Dataset :
+2. Relational Modeling :
+   > ERD :
+   > Mapping :
