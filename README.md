@@ -19,9 +19,9 @@ Customer churn, also known as customer attrition, occurs when a customer decides
 ## Extract Transform Load(ETL):
 1. [Transfer Data From XLSX Source Files To Database](https://github.com/Shamss08/ITI_Graduation_Project_Telco_Churn/blob/main/ETL-FROM-SRC-TO-DB.zip)
    - EX :
-     <p float="left">
-        <img src="https://github.com/Shamss08/ITI_Graduation_Project_Telco_Churn/blob/main/contract.PNG" width="400", height="400" />
-        <img src="https://github.com/Shamss08/ITI_Graduation_Project_Telco_Churn/blob/main/InternetService.PNG" width="400", height="400" /> 
+     <p align="middle">
+        <img src="https://github.com/Shamss08/ITI_Graduation_Project_Telco_Churn/blob/main/contract.PNG" width="32%" />
+        <img src="https://github.com/Shamss08/ITI_Graduation_Project_Telco_Churn/blob/main/InternetService.PNG" width="32%" /> 
      </p>
 3. [Transfer Data From Database To Data Warehouse](https://github.com/Shamss08/ITI_Graduation_Project_Telco_Churn/blob/main/TelcoChurnDWH_ETL.zip)
 ## Developing Analysis & Visualization System :
