@@ -30,4 +30,6 @@ Customer churn, also known as customer attrition, occurs when a customer decides
         <img src="https://github.com/Shamss08/ITI_Graduation_Project_Telco_Churn/blob/main/Fact_Charges.PNG" width="80%" />
      </p>
 ## Developing Analysis & Visualization System :
+> Power BI Dashboard:
+   - [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYThiZTA5ZDYtZWU1OC00NzNmLWJhZGUtYTRmNGYzZDMyOWJkIiwidCI6IjJhZDI5ZGJiLThjYzQtNDMxNy04NWVlLTM2Mjk2ZWRkZjI1NSJ9)
 
