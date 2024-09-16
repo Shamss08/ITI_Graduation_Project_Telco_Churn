@@ -17,7 +17,8 @@ Customer churn, also known as customer attrition, occurs when a customer decides
      ![image](https://github.com/Shamss08/ITI_Graduation_Project_Telco_Churn/blob/main/DB_Final.png)
 3. Dimensional Modeling :
    - Snowflake Schema :
-   - DWH Creation Script :
+     ![image](https://github.com/Shamss08/ITI_Graduation_Project_Telco_Churn/blob/main/DWH_Final.png)
+   - DWH Creation Script : [Telco_Churn_DWH.SQL](https://github.com/Shamss08/ITI_Graduation_Project_Telco_Churn/blob/main/Telco_Churn_DWH.sql)
 ## Extract Transform Load(ETL):
 1. Transfer Data From XLSX Source Files To Database :
 2. Transfer Data From Database To Data Warehouse :
