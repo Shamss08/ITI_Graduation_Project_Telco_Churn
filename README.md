@@ -10,3 +10,12 @@ Customer churn, also known as customer attrition, occurs when a customer decides
 2. Relational Modeling :
    - ERD :
    - Mapping :
+   - Database Creation Script :
+3. Dimensional Modeling :
+   - Snowflake Schema :
+   - DWH Creation Script :
+### Extract Transform Load(ETL):
+1. Transfer Data From XLSX Source Files To Database :
+2. Transfer Data From Database To Data Warehouse :
+### Developing Analysis & Visualization System :
+
