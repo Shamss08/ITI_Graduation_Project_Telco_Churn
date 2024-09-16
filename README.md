@@ -26,7 +26,8 @@ Customer churn, also known as customer attrition, occurs when a customer decides
 2. [Transfer Data From Database To Data Warehouse](https://github.com/Shamss08/ITI_Graduation_Project_Telco_Churn/blob/main/TelcoChurnDWH_ETL.zip)
    - EX :
      <p align="middle">
-        <img src="https://github.com/Shamss08/ITI_Graduation_Project_Telco_Churn/blob/main/Dim_Internet_Service.PNG" width="50%" /> 
+        <img src="https://github.com/Shamss08/ITI_Graduation_Project_Telco_Churn/blob/main/Dim_Internet_Service.PNG" width="50%" />
+        <img src="https://github.com/Shamss08/ITI_Graduation_Project_Telco_Churn/blob/main/Fact_Charges.PNG" width="50%" />
      </p>
 ## Developing Analysis & Visualization System :
 
